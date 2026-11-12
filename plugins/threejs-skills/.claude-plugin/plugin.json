@@ -1,0 +1,9 @@
+{
+  "name": "threejs-skills",
+  "version": "1.0.0",
+  "description": "Three.js 3D graphics: scenes, geometry, materials, lighting, shaders, loaders, React Three Fiber, performance.",
+  "author": {
+    "name": "CloudAI-X"
+  },
+  "homepage": "https://github.com/CloudAI-X/threejs-skills"
+}

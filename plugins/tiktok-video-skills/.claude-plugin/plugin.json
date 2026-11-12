@@ -1,0 +1,9 @@
+{
+  "name": "tiktok-video-skills",
+  "version": "1.0.0",
+  "description": "Short-form video: captions, countdowns, lower thirds, retention pacing for Reels/TikTok/Shorts.",
+  "author": {
+    "name": "iart-ai"
+  },
+  "homepage": "https://github.com/iart-ai/tiktok-video-skills"
+}

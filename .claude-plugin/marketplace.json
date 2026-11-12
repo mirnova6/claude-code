@@ -155,6 +155,46 @@
       },
       "source": "./plugins/remotion-motion-graphics",
       "category": "design"
+    },
+    {
+      "name": "threejs-skills",
+      "description": "Three.js 3D graphics: scenes, geometry, materials, lighting, shaders, loaders, React Three Fiber, performance.",
+      "version": "1.0.0",
+      "author": {
+        "name": "CloudAI-X"
+      },
+      "source": "./plugins/threejs-skills",
+      "category": "design"
+    },
+    {
+      "name": "web-animation-skills",
+      "description": "Web animation: GSAP, SVG, Lottie, micro-interactions, page transitions, glassmorphism, ASCII art, 60fps and accessible motion.",
+      "version": "1.0.0",
+      "author": {
+        "name": "iart-ai"
+      },
+      "source": "./plugins/web-animation-skills",
+      "category": "design"
+    },
+    {
+      "name": "data-animation-skills",
+      "description": "Data animation: animated charts, bar chart races, infographics, presentation videos.",
+      "version": "1.0.0",
+      "author": {
+        "name": "iart-ai"
+      },
+      "source": "./plugins/data-animation-skills",
+      "category": "design"
+    },
+    {
+      "name": "tiktok-video-skills",
+      "description": "Short-form video: captions, countdowns, lower thirds, retention pacing for Reels/TikTok/Shorts.",
+      "version": "1.0.0",
+      "author": {
+        "name": "iart-ai"
+      },
+      "source": "./plugins/tiktok-video-skills",
+      "category": "design"
     }
   ]
 }
