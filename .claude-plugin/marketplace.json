@@ -1,11 +1,10 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "claude-code-plugins",
+  "name": "mirnova6-skills",
   "version": "1.0.0",
-  "description": "Bundled plugins for Claude Code including Agent SDK development tools, PR review toolkit, and commit workflows",
+  "description": "Claude Code plugins and skills curated by mirnova6, plus the bundled Claude Code plugins.",
   "owner": {
-    "name": "Anthropic",
-    "email": "support@anthropic.com"
+    "name": "mirnova6"
   },
   "plugins": [
     {
@@ -15,14 +14,14 @@
       "category": "development"
     },
     {
-      "name": "claude-opus-4-5-migration",
+      "name": "opus-4-5-migration",
       "description": "Migrate your code and prompts from Sonnet 4.x and Opus 4.1 to Opus 4.5.",
       "version": "1.0.0",
       "author": {
         "name": "William Hu",
         "email": "whu@anthropic.com"
       },
-      "source": "./plugins/claude-opus-4-5-migration",
+      "source": "./plugins/opus-4-5-migration",
       "category": "development"
     },
     {

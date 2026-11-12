@@ -14,5 +14,5 @@ Source: https://github.com/iart-ai/tiktok-video-skills
 ## Install
 
 ```
-/plugin install tiktok-video-skills --marketplace mirnova6/claude-code
+/plugin install tiktok-video-skills --marketplace mirnova6-skills
 ```

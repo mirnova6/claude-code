@@ -23,5 +23,5 @@ Source: https://github.com/CloudAI-X/threejs-skills
 ## Install
 
 ```
-/plugin install threejs-skills --marketplace mirnova6/claude-code
+/plugin install threejs-skills --marketplace mirnova6-skills
 ```

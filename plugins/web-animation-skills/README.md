@@ -19,5 +19,5 @@ Source: https://github.com/iart-ai/web-animation-skills
 ## Install
 
 ```
-/plugin install web-animation-skills --marketplace mirnova6/claude-code
+/plugin install web-animation-skills --marketplace mirnova6-skills
 ```

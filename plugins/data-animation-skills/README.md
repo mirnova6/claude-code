@@ -13,5 +13,5 @@ Source: https://github.com/iart-ai/data-animation-skills
 ## Install
 
 ```
-/plugin install data-animation-skills --marketplace mirnova6/claude-code
+/plugin install data-animation-skills --marketplace mirnova6-skills
 ```

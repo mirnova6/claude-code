@@ -8,5 +8,5 @@ Source: https://github.com/haidrrrry/claude-remotion-skill (MIT license, see `LI
 ## Install
 
 ```
-/plugin install remotion-motion-graphics --marketplace mirnova6/claude-code
+/plugin install remotion-motion-graphics --marketplace mirnova6-skills
 ```
