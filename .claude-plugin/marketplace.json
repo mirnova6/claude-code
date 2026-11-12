@@ -145,6 +145,16 @@
       },
       "source": "./plugins/security-guidance",
       "category": "security"
+    },
+    {
+      "name": "remotion-motion-graphics",
+      "description": "Professional motion graphics videos with Remotion: easing, staggered entrances, layered scenes, and a render-and-verify loop.",
+      "version": "1.0.0",
+      "author": {
+        "name": "haidrrrry"
+      },
+      "source": "./plugins/remotion-motion-graphics",
+      "category": "design"
     }
   ]
 }

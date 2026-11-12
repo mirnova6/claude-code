@@ -1,0 +1,10 @@
+{
+  "name": "remotion-motion-graphics",
+  "version": "1.0.0",
+  "description": "Professional motion graphics videos with Remotion: easing, staggered entrances, layered scenes, and a render-and-verify loop.",
+  "author": {
+    "name": "haidrrrry"
+  },
+  "homepage": "https://github.com/haidrrrry/claude-remotion-skill",
+  "license": "MIT"
+}
