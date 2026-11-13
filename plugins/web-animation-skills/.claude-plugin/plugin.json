@@ -1,0 +1,9 @@
+{
+  "name": "web-animation-skills",
+  "version": "1.0.0",
+  "description": "Web animation: GSAP, SVG, Lottie, micro-interactions, page transitions, glassmorphism, ASCII art, 60fps and accessible motion.",
+  "author": {
+    "name": "iart-ai"
+  },
+  "homepage": "https://github.com/iart-ai/web-animation-skills"
+}
