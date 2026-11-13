@@ -194,6 +194,16 @@
       },
       "source": "./plugins/tiktok-video-skills",
       "category": "design"
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "description": "UI/UX design intelligence: styles, color palettes, font pairings, UX guidelines and charts across 13 stacks, with a searchable design database.",
+      "version": "1.0.0",
+      "author": {
+        "name": "nextlevelbuilder"
+      },
+      "source": "./plugins/ui-ux-pro-max",
+      "category": "design"
     }
   ]
 }
